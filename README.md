@@ -1,2 +1,5 @@
 # Numpy_ML
-Learning the basic on Machine Learning
+
+## @Author: Timothy Lam
+
+Learning the basic of Numpy in Machine Learning
